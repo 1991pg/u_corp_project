@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         
         // Do any additional setup after loading the view, typically from a nib.
         
+        print("hellow world this is adjusted ")
     }
 
     override func didReceiveMemoryWarning() {
